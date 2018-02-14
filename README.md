@@ -4,6 +4,8 @@ This is a simple website
 
 ## Introduction
 
+This is another example
+
 ## Purpose
 
 ## Deployment
